@@ -1,3 +1,7 @@
+#Functions with mysterious names/variables given to us in class
+#Our job is to figure out what the functions do and write docstrings
+
+
 def round_to_int(number):
     
     """Takes argument number as any numerical type"""
@@ -223,4 +227,4 @@ def merge_sort(inp):
 
 
 
-    
+
